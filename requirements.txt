@@ -1,0 +1,8 @@
+#python library required
+
+pandas
+numpy
+yfinance
+matplotlib
+seaborn
+prophet
